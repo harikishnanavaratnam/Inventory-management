@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+sqlmodel
+sqlalchemy
+psycopg2-binary
+pydantic
+passlib[bcrypt]
+python-jose
+requests
+ultralytics
+pillow
+firebase-admin
+python-multipart
+s
